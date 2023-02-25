@@ -7,5 +7,5 @@ local Tab = Window:NewTab("Main Scripts")
 local Section = Tab:NewSection("Main Scripts")
 
 Section:NewButton("Fly", "Makes You Fly", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/cwissyy/flybirdie/main/fly.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/cwissyy/brokhavem/main/fly.lua"))()
 end)
