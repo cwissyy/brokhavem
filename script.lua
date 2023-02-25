@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("                                       Da Hood Script", "DarkTheme")
+local Window = Library.CreateLib("Brookhaven Script", "DarkTheme")
 
 
 -- Main
